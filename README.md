@@ -1,2 +1,2 @@
-# weather-widget
-An embeddable weather widget for web app dashboards
+# embedabble-widgets
+A host repository for embeddable widgets
