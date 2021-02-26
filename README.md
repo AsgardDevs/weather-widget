@@ -1,2 +1,2 @@
-# embedabble-widgets
+# widgets
 A host repository for embeddable widgets
